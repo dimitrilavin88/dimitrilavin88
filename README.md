@@ -13,13 +13,6 @@ I'm a Software Engineer with a Master's degree in Computer Science from Southern
 - **Tools & Technologies:** Git/GitHub, VS Code, IntelliJ IDEA, Google Calendar API
 - **Cloud & Deployment:** AWS, Vercel, Railway, Render
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitrilavin88&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrilavin88&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/dimitrilav%C3%ADn/)
