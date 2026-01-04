@@ -15,7 +15,10 @@ I'm a Software Engineer with a Master's degree in Computer Science from Southern
 
 ### 📈 GitHub Stats
 
-![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrilavin88&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitrilavin88&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrilavin88&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 ### 🌐 Connect with Me
 
@@ -27,12 +30,14 @@ I'm a Software Engineer with a Master's degree in Computer Science from Southern
 Here are some of my featured projects showcased on my portfolio:
 
 1. **Planno - Scheduling Platform** | [Code](https://github.com/dimitrilavin88/Planno) | [Live Demo](https://plannomeetings.vercel.app/?code=10b009c8-90be-4699-af23-9084fbb6d5b6)
+
    - **Description:** A full-stack scheduling platform that helps bishops create shareable booking links for interviews and meetings, enabling members to schedule directly from real-time availability.
    - **Problem:** Manual meeting coordination causes scheduling conflicts, missed appointments, and significant time spent on back-and-forth communication.
    - **Solution:** Shareable booking links with real-time availability, Google Calendar integration for automatic sync, and Apple Calendar download support for seamless cross-platform scheduling.
    - **Tech Stack:** Next.js, TypeScript, React, Supabase, PostgreSQL, Google Calendar API, Vercel
 
 2. **TastyFood - Food Ordering Platform** | [Code](https://github.com/dimitrilavin88/TastyFood) | [Live Demo](https://tastyfooddelivery-production.up.railway.app/)
+
    - **Description:** A custom full-stack food ordering platform that enables local restaurants to accept online orders directly from customers, providing complete ordering and delivery management.
    - **Problem:** Restaurants lose 15-30% of revenue to third-party delivery services and lose direct customer relationships and control over pricing.
    - **Solution:** Direct customer ordering through role-based dashboards, eliminating commission fees and giving restaurants complete control over customer relationships, pricing, and delivery logistics.
